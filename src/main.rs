@@ -49,7 +49,6 @@ fn main() {
         next().unwrap_or(Some(2)).unwrap_or(2));
         print_word(word, word_delay.
             next().unwrap_or(Some(2)).unwrap_or(2));
-
     }
     finish();
 }
